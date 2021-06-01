@@ -31,5 +31,5 @@ Rnd | Instructions | Row Sts.
 
 ## Notes
 
-- 1) Pattern starts at the top and works to the bottom
-- 2) Make Sure to make the top rounded and the bottom flat. Stuff the character accordingly.
+1) Pattern starts at the top and works to the bottom
+2) Make Sure to make the top rounded and the bottom flat. Stuff the character accordingly.
