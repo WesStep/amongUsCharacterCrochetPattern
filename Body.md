@@ -2,7 +2,7 @@
 
 Rnd | Instructions | Row Sts.
 :-: | ------------ | :------:
-1   | Ch 2, 6 sc in 1st ch | 6
+1   | Ch 2, 6 sc in 1st ch*1 | 6
 2   | 2 sc in ea sc | 12
 3   | (1 sc in next sc, 2sc in next sc) repeat *6 | 18
 4   | (1 sc in next 2 sc, 2sc in next sc) repeat *6 | 24
@@ -21,7 +21,7 @@ Rnd | Instructions | Row Sts.
 51 | (1 sc in next 7 sc, sc2tog in next 2 sc) repeat *6 | 48
 52 | (1 sc in next 6 sc, sc2tog in next 2 sc) repeat *6 | 42
 53 | (1 sc in next 5 sc, sc2tog in next 2 sc) repeat *6 | 36
-\- | *Stuff the character* | \-
+\- | *Stuff the character*2* | \-
 54 | (1 sc in next 4 sc, sc2tog in next 2 sc) repeat *6 | 30
 55 | (1 sc in next 3 sc, sc2tog in next 2 sc) repeat *6 | 24
 56 | (1 sc in next 2 sc, sc2tog in next 2 sc) repeat *6 | 18
@@ -31,5 +31,5 @@ Rnd | Instructions | Row Sts.
 
 ## Notes
 
-- Pattern starts at the top and works to the bottom
-- Make Sure to make the top rounded and the bottom flat. Stuff the character accordingly.
+- 1) Pattern starts at the top and works to the bottom
+- 2) Make Sure to make the top rounded and the bottom flat. Stuff the character accordingly.
