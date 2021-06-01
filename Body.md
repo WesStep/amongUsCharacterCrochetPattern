@@ -15,13 +15,13 @@ Rnd | Instructions | Row Sts.
 11  | (1 sc in next 9 sc, 2sc in next sc) repeat *6 | 66
 12  | (1 sc in next 10 sc, 2sc in next sc) repeat *6 | 72
 13-47 | sc in each sc | 72
-48 | (In bk lps: 1 sc in next 10 sc, sc2tog in next 2 sc) repeat *6 | 66
+48 | (1 sc in next 10 sc, sc2tog in next 2 sc) repeat *6 | 66
 49 | (1 sc in next 9 sc, sc2tog in next 2 sc) repeat *6 | 60
 50 | (1 sc in next 8 sc, sc2tog in next 2 sc) repeat *6 | 54
-\- | *Stuff the character* | \-
 51 | (1 sc in next 7 sc, sc2tog in next 2 sc) repeat *6 | 48
 52 | (1 sc in next 6 sc, sc2tog in next 2 sc) repeat *6 | 42
 53 | (1 sc in next 5 sc, sc2tog in next 2 sc) repeat *6 | 36
+\- | *Stuff the character* | \-
 54 | (1 sc in next 4 sc, sc2tog in next 2 sc) repeat *6 | 30
 55 | (1 sc in next 3 sc, sc2tog in next 2 sc) repeat *6 | 24
 56 | (1 sc in next 2 sc, sc2tog in next 2 sc) repeat *6 | 18
