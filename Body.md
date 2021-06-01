@@ -21,7 +21,7 @@ Rnd | Instructions | Row Sts.
 51 | (1 sc in next 7 sc, sc2tog in next 2 sc) repeat *6 | 48
 52 | (1 sc in next 6 sc, sc2tog in next 2 sc) repeat *6 | 42
 53 | (1 sc in next 5 sc, sc2tog in next 2 sc) repeat *6 | 36
-\- | *Stuff the character*2* | \-
+\- | *Stuff the character\*2* | \-
 54 | (1 sc in next 4 sc, sc2tog in next 2 sc) repeat *6 | 30
 55 | (1 sc in next 3 sc, sc2tog in next 2 sc) repeat *6 | 24
 56 | (1 sc in next 2 sc, sc2tog in next 2 sc) repeat *6 | 18
